@@ -16,13 +16,13 @@ To use the script, simply clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/folder-check-script.git
-cd folder-check-script
+cd Directory_Check
 ```
 
 Then, you can run the script using Python 3:
 
 ```bash
-python3 check_folders_to_file.py
+python3 dir_check.py
 ```
 
 Usage
